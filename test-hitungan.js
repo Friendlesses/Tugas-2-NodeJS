@@ -4,8 +4,8 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-const a = getRandomInt(1, 100); 
-const b = getRandomInt(1, 100); 
+const a = getRandomInt(0, 100); 
+const b = getRandomInt(0, 100); 
 
 console.log('Nilai a =', a)
 console.log('Nilai b =', b)
