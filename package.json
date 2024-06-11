@@ -1,0 +1,14 @@
+{
+  "name": "tugas-2-krisna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "no1": "node baca-file.js",
+    "no2": "node simple-server.js",
+    "no3": "node test-hitungan.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
